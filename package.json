@@ -1,0 +1,26 @@
+{
+  "name": "ipfsclient",
+  "version": "1.0.0",
+  "description": "We /Effect/ You",
+  "main": "main.js",
+  "scripts": {
+    "test": "NOCALL"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsonbill/IPFSClient.git"
+  },
+  "keywords": [
+    "Particlate",
+    "EffectorSet",
+    "Substantiate",
+    "EnscriberDisc",
+    "ExistentEffect"
+  ],
+  "author": "Alterous Lucifer",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dsonbill/IPFSClient/issues"
+  },
+  "homepage": "https://github.com/dsonbill/IPFSClient#readme"
+}
